@@ -1,2 +1,2 @@
-# coolyetiapp
-First experiment with babylon.js
+# Cool Yeti App
+My first experiment with babylon.js
